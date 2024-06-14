@@ -16,7 +16,7 @@ body{
 
 .container{
     position: relative;
-    background-color: rgb(189, 99, 99);
+    background-color: #E9D7C0;
     margin: 50px ;
     width: 100%;
     max-width: 1000px;
@@ -28,7 +28,8 @@ body{
 
 .container .left-side{
     position: relative;
-    background-color: #b0a8f1;
+    background-color: #9B7D61
+    1;
     padding: 40px;
 }
 
