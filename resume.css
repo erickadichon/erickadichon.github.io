@@ -125,12 +125,12 @@ body{
 }
 
 
-
 .container .right-side{
     position: relative;
     background-color: #E9D7C0;
     padding: 40px;
 }
+
 
 .about
 {
@@ -142,3 +142,5 @@ body{
     color: #fff;
     font-weight: 500;
 }
+
+
